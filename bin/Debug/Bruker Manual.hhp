@@ -1,0 +1,17 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Bruker Manual.chm
+Contents file=Innholdsfortegnelse.hhc
+Default topic=Velkommen.htm
+Display compile progress=No
+Language=0x414 Norwegian, Bokmål (Norway)
+Title=UBÅTSPILLETS MANUAL
+
+
+[FILES]
+Velkommen.htm
+Hvordan.htm
+Om Spillet.htm
+
+[INFOTYPES]
+
